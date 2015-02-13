@@ -248,7 +248,7 @@ hr
 	overflow: hidden;
 	height: 600px;
 	background: url('images/DSCN7328.JPG') no-repeat top center;
-	background-size: 40%;
+	background-size: 100%;
 }
 
 #header-wrapper:before
