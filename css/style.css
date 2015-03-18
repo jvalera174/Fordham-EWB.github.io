@@ -47,7 +47,7 @@
 	}
 
 		a:hover {
-			color: #37c0fb;
+			color: #900028;
 			border-bottom-color: transparent;
 		}
 
@@ -188,7 +188,7 @@
 		input[type="password"]:focus,
 		input[type="email"]:focus,
 		textarea:focus {
-			border-color: #37c0fb;
+			border-color: #900028;
 		}
 
 	input[type="text"],
@@ -776,7 +776,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #37c0fb;
+			background-color: #900028;
 			background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
 			background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
 			background-image: -o-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
@@ -791,7 +791,7 @@
 			}
 
 				.wrapper.style3 .button:hover {
-					color: #37c0fb !important;
+					color: #900028 !important;
 				}
 
 /* CTA */
@@ -824,7 +824,7 @@
 		}
 
 			#footer a:hover {
-				color: #37c0fb;
+				color: #900028;
 				border-bottom-color: transparent;
 			}
 
